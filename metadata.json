@@ -1,0 +1,7 @@
+{
+  "name": "Academia Musical Sergio Alfaro",
+  "description": "Plataforma educativa musical con herramientas interactivas (Profelófono, Afinador, Círculo de Quintas) y gestión de estudiantes para la academia de Sergio Alfaro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
